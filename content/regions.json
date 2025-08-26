@@ -1,0 +1,88 @@
+{
+  "regions": [
+    {
+      "id": "tamale",
+      "name": "Tamale",
+      "description": "Northern Region distribution hub serving the greater Tamale metropolitan area",
+      "coverage": ["Tamale Metropolitan", "Sagnarigu", "Tolon"],
+      "distributors": [
+        {
+          "name": "Northern Fresh Distributors",
+          "contact": "0244123456",
+          "address": "Central Market, Tamale",
+          "products": ["Unifresh Juices", "Fresh Mushrooms"]
+        }
+      ]
+    },
+    {
+      "id": "nsawam",
+      "name": "Nsawam",
+      "description": "Eastern Region distribution serving Nsawam and surrounding communities",
+      "coverage": ["Nsawam", "Suhum", "Koforidua"],
+      "distributors": [
+        {
+          "name": "Eastern Fresh Markets",
+          "contact": "0241987654",
+          "address": "Nsawam Market Square",
+          "products": ["Unifresh Juices", "Prekese Powder"]
+        }
+      ]
+    },
+    {
+      "id": "cape-coast",
+      "name": "Cape Coast",
+      "description": "Central Region coastal distribution hub",
+      "coverage": ["Cape Coast", "Elmina", "Mankessim"],
+      "distributors": [
+        {
+          "name": "Coastal Fresh Supplies",
+          "contact": "0244567890",
+          "address": "Kotokuraba Market, Cape Coast",
+          "products": ["Unifresh Juices", "Fresh Mushrooms", "Prekese Powder"]
+        }
+      ]
+    },
+    {
+      "id": "tarkwa",
+      "name": "Tarkwa",
+      "description": "Western Region mining town distribution center",
+      "coverage": ["Tarkwa", "Prestea", "Bogoso"],
+      "distributors": [
+        {
+          "name": "Western Fresh Hub",
+          "contact": "0241234567",
+          "address": "Tarkwa Central Market",
+          "products": ["Unifresh Juices"]
+        }
+      ]
+    },
+    {
+      "id": "bolgatanga",
+      "name": "Bolgatanga",
+      "description": "Upper East Region distribution serving Bolgatanga and Navrongo",
+      "coverage": ["Bolgatanga", "Navrongo", "Bawku"],
+      "distributors": [
+        {
+          "name": "Upper East Fresh Network",
+          "contact": "0244345678",
+          "address": "Bolgatanga Central Market",
+          "products": ["Unifresh Juices", "Prekese Powder"]
+        }
+      ]
+    },
+    {
+      "id": "salaga",
+      "name": "Salaga",
+      "description": "Northern Region traditional trading town distribution",
+      "coverage": ["Salaga", "Kpandai", "Yeji"],
+      "distributors": [
+        {
+          "name": "Salaga Fresh Traders",
+          "contact": "0241456789",
+          "address": "Salaga Market",
+          "products": ["Unifresh Juices"]
+        }
+      ]
+    }
+  ]
+}

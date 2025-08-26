@@ -1,0 +1,40 @@
+{
+  "team": [
+    {
+      "name": "Sanni Muhammad",
+      "role": "Founder & CEO",
+      "bio": "Visionary leader driving agricultural innovation across Ghana",
+      "image": "/team/prince-turkson.jpg"
+    },
+    {
+      "name": "Awal Muhammad",
+      "role": "Production Manager",
+      "bio": "Ensuring quality and efficiency in our production processes",
+      "image": "/team/awal-muhammad.jpg"
+    },
+    {
+      "name": "Sahadatu Saana",
+      "role": "Human Resources",
+      "bio": "I believe in treating others with the same respect, kindness, and integrity I desire for myself.",
+      "image": "/team/sahadatu-saana.jpg"
+    },
+    {
+      "name": "Prince Turkson",
+      "role": "Quality Assurance",
+      "bio": "Maintaining the highest standards for all our products",
+      "image": "/team/prince-turkson.jpg"
+    },
+    {
+      "name": "Lydia Menko",
+      "role": "Sales & Marketing",
+      "bio": "Connecting our products with communities across Ghana",
+      "image": "/team/lydia-menko.jpg"
+    },
+    {
+      "name": "Collins Tenkrong",
+      "role": "Operations",
+      "bio": "Streamlining operations for maximum efficiency",
+      "image": "/team/prince-turkson.jpg"
+    }
+  ]
+}

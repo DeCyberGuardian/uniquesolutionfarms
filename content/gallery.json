@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "updated": "2025-08-26",
+  "groups": [
+    {
+      "id": "crops",
+      "name": "Crops & Plants",
+      "description": "Farms, produce, and field work.",
+      "items": [
+        { "id": "g01", "type": "image", "src": "/crops/Gallery0.jpg",  "alt": "Pineapple field at dawn",                "w": 1600, "h": 1600, "tags": ["pineapple","field","harvest"] },
+        { "id": "g02", "type": "image", "src": "/crops/Gallery8.jpg",  "alt": "Mango trees in rows",                   "w": 1600, "h": 1600, "tags": ["mango","orchard"] },
+        { "id": "g03", "type": "image", "src": "/crops/Gallery9.jpg",  "alt": "Farmer inspecting ginger roots",        "w": 1600, "h": 1600, "tags": ["ginger","farm"] },
+        { "id": "g04", "type": "image", "src": "/crops/Gallery12.jpg", "alt": "Prekese (Aidan fruit) on branch",       "w": 1600, "h": 1600, "tags": ["prekese","plants"] },
+        { "id": "g05", "type": "image", "src": "/crops/Gallery14.jpg", "alt": "Xylopia aethiopica pods drying",        "w": 1600, "h": 1600, "tags": ["xylopia","spices","drying"] },
+        { "id": "g06", "type": "image", "src": "/crops/Gallery16.jpg", "alt": "Cloves grading table",                  "w": 1600, "h": 1600, "tags": ["cloves","grading"] },
+        { "id": "g07", "type": "image", "src": "/crops/Gallery15.jpg", "alt": "Banana bunches under shade",            "w": 1600, "h": 1600, "tags": ["banana","shade"] },
+        { "id": "g08", "type": "image", "src": "/crops/Gallery20.jpg", "alt": "Papaya (pawpaw) ripening",              "w": 1600, "h": 1600, "tags": ["pawpaw","ripening"] },
+        { "id": "g09", "type": "image", "src": "/crops/Gallery21.jpg", "alt": "Watermelon harvest on truck bed",       "w": 1600, "h": 1600, "tags": ["watermelon","harvest","transport"] },
+        { "id": "g10", "type": "image", "src": "/crops/Gallery37.jpg", "alt": "Field irrigation lines",                "w": 1600, "h": 1600, "tags": ["irrigation","field"] },
+        { "id": "g11", "type": "image", "src": "/crops/Gallery28.jpg", "alt": "Seedlings in nursery trays",            "w": 1600, "h": 1600, "tags": ["nursery","seedlings"] },
+        { "id": "g12", "type": "image", "src": "/crops/Gallery22.jpg", "alt": "Soil testing on-site",                  "w": 1600, "h": 1600, "tags": ["soil","quality"] },
+        { "id": "g13", "type": "image", "src": "/crops/Gallery13.jpg", "alt": "Workers loading pineapples",            "w": 1600, "h": 1600, "tags": ["pineapple","loading","field"] }
+      ]
+    },
+    {
+      "id": "processing",
+      "name": "Processing & Packaging",
+      "description": "Production line, QC, packing, retail, and distribution.",
+      "items": [
+        { "id": "g14", "type": "image", "src": "/processing/Gallery18.jpg", "alt": "Sorting line for pineapples",         "w": 1600, "h": 1600, "tags": ["sorting","pineapple","factory"] },
+        { "id": "g15", "type": "image", "src": "/processing/Gallery22.jpg", "alt": "Washing and sanitizing station",      "w": 1600, "h": 1600, "tags": ["washing","sanitation","qc"] },
+        { "id": "g16", "type": "image", "src": "/processing/Gallery23.jpg", "alt": "Stainless processing tanks",          "w": 1600, "h": 1600, "tags": ["processing","tanks"] },
+        { "id": "g17", "type": "image", "src": "/processing/Gallery26.jpg", "alt": "Pasteurization temperature checks",   "w": 1600, "h": 1600, "tags": ["pasteurization","qc"] },
+        { "id": "g18", "type": "image", "src": "/processing/Gallery27.jpg", "alt": "Bottling line close-up",              "w": 1600, "h": 1600, "tags": ["bottling","production"] },
+        { "id": "g19", "type": "image", "src": "/processing/Gallery29.jpg", "alt": "Capping and sealing",                 "w": 1600, "h": 1600, "tags": ["capping","sealing"] },
+        { "id": "g20", "type": "image", "src": "/processing/Gallery31.jpg", "alt": "Labeling with batch codes",           "w": 1600, "h": 1600, "tags": ["labeling","traceability"] },
+        { "id": "g21", "type": "image", "src": "/processing/Gallery34.jpg", "alt": "Finished goods on pallets",           "w": 1600, "h": 1600, "tags": ["packaging","warehouse"] },
+        { "id": "g22", "type": "image", "src": "/processing/Gallery35.jpg", "alt": "QC micro testing bench",              "w": 1600, "h": 1600, "tags": ["qc","lab"] },
+        { "id": "g23", "type": "image", "src": "/processing/Gallery36.jpg", "alt": "Unifresh juice cases ready to ship",  "w": 1600, "h": 1600, "tags": ["unifresh","cases","shipping"] },
+        { "id": "g24", "type": "image", "src": "/processing/Gallery24.jpg", "alt": "Retail display at supermarket",       "w": 1600, "h": 1600, "tags": ["retail","display"] },
+        { "id": "g25", "type": "image", "src": "/processing/Gallery25.jpg", "alt": "Distributor loading van",             "w": 1600, "h": 1600, "tags": ["distribution","logistics"] },
+        { "id": "g26", "type": "image", "src": "/processing/Gallery26.jpg", "alt": "Team group photo at facility",        "w": 1600, "h": 1600, "tags": ["team","community"] },
+        { "id": "g27", "type": "image", "src": "/processing/Gallery27.jpg", "alt": "Farmer partnership signing",          "w": 1600, "h": 1600, "tags": ["partners","farmers"] },
+        { "id": "g28", "type": "image", "src": "/processing/Gallery28.jpg", "alt": "Store sampling event",                "w": 1600, "h": 1600, "tags": ["sampling","retail","event"] },
+        { "id": "g29", "type": "image", "src": "/processing/Gallery29.jpg", "alt": "Last-mile motorcycle delivery",       "w": 1600, "h": 1600, "tags": ["delivery","last-mile"] },
+        { "id": "g30", "type": "image", "src": "/processing/Gallery30.jpg", "alt": "Customer holding Unifresh bottle",    "w": 1600, "h": 1600, "tags": ["customer","unifresh"] }
+      ]
+    },
+    {
+      "id": "teams",
+      "name": "Teams",
+      "description": "People behind Unifresh — field, factory, and community.",
+      "items": [
+        { "id": "t01", "type": "image", "src": "/teams/Gallery.jpg", "alt": "Production team on the bottling floor",  "w": 1600, "h": 1600, "tags": ["team","factory"] },
+        { "id": "t02", "type": "image", "src": "//teams/Gallery1.jpg", "alt": "Quality control team at lab bench",      "w": 1600, "h": 1600, "tags": ["team","qc","lab"] },
+        { "id": "t03", "type": "image", "src": "/teams/Gallery2.jpg", "alt": "Field team with farmers",                "w": 1600, "h": 1600, "tags": ["team","farmers","field"] },
+        { "id": "t04", "type": "image", "src": "/teams/Gallery3.jpg", "alt": "Logistics and distribution crew",        "w": 1600, "h": 1600, "tags": ["team","logistics"] },
+        { "id": "t05", "type": "image", "src": "/teams/Gallery4.jpg", "alt": "Retail sampling staff at supermarket",   "w": 1600, "h": 1600, "tags": ["team","retail","sampling"] },
+        { "id": "t06", "type": "image", "src": "/teams/Gallery5.jpg", "alt": "Leadership and partnerships",            "w": 1600, "h": 1600, "tags": ["team","partners"] },
+        { "id": "t06", "type": "image", "src": "/teams/Gallery6.jpg", "alt": "Leadership and partnerships",            "w": 1600, "h": 1600, "tags": ["team","partners"] },
+        { "id": "t06", "type": "image", "src": "/teams/Gallery7.jpg", "alt": "Leadership and partnerships",            "w": 1600, "h": 1600, "tags": ["team","partners"] }
+      ]
+    },
+    {
+      "id": "videos",
+      "name": "Videos",
+      "description": "Short clips from farms, factory, and distribution.",
+      "items": [
+        { "id": "crops-vid-1",      "type": "video", "src": "/video/loading.mp4",    "poster": "/video/loading.jpg",      "alt": "Crops overview video",               "tags": ["overview","farm"] },
+        { "id": "processing-vid-1", "type": "video", "src": "/video/packaging.mp4",  "poster": "/video/packaging.jpg",    "alt": "Processing line walkthrough",        "tags": ["factory","tour"] },
+        { "id": "community-vid-1",  "type": "video", "src": "/video/packaging1.mp4", "poster": "/video/packaging1.jpg",   "alt": "Community & distribution highlights","tags": ["community","distribution"] }
+      ]
+    }
+  ]
+}

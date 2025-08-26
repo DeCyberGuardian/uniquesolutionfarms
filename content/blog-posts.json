@@ -1,0 +1,75 @@
+[
+  {
+    "slug": "welcome-to-unifresh",
+    "title": "Welcome to Unifresh: Our Journey Begins",
+    "excerpt": "Introducing Unifresh - Ghana's newest natural juice company committed to bringing you the purest, most nutritious beverages straight from our local farms.",
+    "category": "Company Updates",
+    "author": "Samuel Asante",
+    "date": "2024-01-15",
+    "image": "/placeholder.svg?height=400&width=600",
+    "featured": true
+  },
+  {
+    "slug": "benefits-of-natural-juices",
+    "title": "The Science Behind Natural Juice Benefits",
+    "excerpt": "Discover the nutritional advantages of choosing natural, preservative-free juices and how they support your health and wellbeing.",
+    "category": "Product Education",
+    "author": "Dr. Akosua Mensah",
+    "date": "2024-01-20",
+    "image": "/placeholder.svg?height=400&width=600"
+  },
+  {
+    "slug": "farmer-spotlight-kofi-asante",
+    "title": "Farmer Spotlight: Kofi Asante's Pineapple Success",
+    "excerpt": "Meet Kofi Asante, one of our partner farmers from the Eastern Region, whose dedication to quality pineapple farming helps create our signature juice.",
+    "category": "Farmer Stories",
+    "author": "Grace Osei",
+    "date": "2024-01-25",
+    "image": "/placeholder.svg?height=400&width=600"
+  },
+  {
+    "slug": "pasteurization-process-explained",
+    "title": "How Our Pasteurization Process Preserves Nutrition",
+    "excerpt": "Learn about our gentle pasteurization method that eliminates harmful bacteria while preserving the natural vitamins and minerals in our juices.",
+    "category": "Product Education",
+    "author": "Emmanuel Kwame",
+    "date": "2024-02-01",
+    "image": "/placeholder.svg?height=400&width=600"
+  },
+  {
+    "slug": "expanding-to-kumasi",
+    "title": "Unifresh Expands Distribution to Kumasi",
+    "excerpt": "We're excited to announce that Unifresh products are now available in Kumasi and surrounding areas through our new distribution partnership.",
+    "category": "Company Updates",
+    "author": "Samuel Asante",
+    "date": "2024-02-10",
+    "image": "/placeholder.svg?height=400&width=600"
+  },
+  {
+    "slug": "supporting-smallholder-farmers",
+    "title": "How We're Supporting Smallholder Farmers",
+    "excerpt": "Our commitment goes beyond sourcing - we provide training, fair pricing, and long-term partnerships to help small-scale farmers thrive.",
+    "category": "Farmer Stories",
+    "author": "Ama Boateng",
+    "date": "2024-02-15",
+    "image": "/placeholder.svg?height=400&width=600"
+  },
+  {
+    "slug": "seasonal-fruit-guide",
+    "title": "Ghana's Seasonal Fruit Guide: When Nature Gives Its Best",
+    "excerpt": "Understanding Ghana's fruit seasons helps us create the freshest, most flavorful juices. Here's your guide to what's in season when.",
+    "category": "Product Education",
+    "author": "Dr. Akosua Mensah",
+    "date": "2024-02-20",
+    "image": "/placeholder.svg?height=400&width=600"
+  },
+  {
+    "slug": "new-packaging-sustainability",
+    "title": "Introducing Our New Sustainable Packaging",
+    "excerpt": "We're proud to launch our new eco-friendly packaging made from recycled materials, reducing our environmental impact while keeping products fresh.",
+    "category": "Company Updates",
+    "author": "Samuel Asante",
+    "date": "2024-02-25",
+    "image": "/placeholder.svg?height=400&width=600"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "categories": [
+    {
+      "id": "juices",
+      "name": "Unifresh Juices",
+      "description": "100% natural, pasteurized, preservative-free juices made from the finest Ghanaian fruits",
+      "products": [
+        {
+          "id": "pineapple",
+          "name": "Unifresh Pineapple",
+          "description": "Pure pineapple juice bursting with tropical sweetness and natural vitamins",
+          "ingredients": ["100% Fresh Pineapple"],
+          "sizes": ["250ml", "500ml", "1L"],
+          "benefits": ["Rich in Vitamin C", "Natural enzymes", "No preservatives"],
+          "image": "/products/Gallery27.jpg"
+        },
+        {
+          "id": "cocktail",
+          "name": "Unifresh Cocktail",
+          "description": "A delightful blend of tropical fruits for a refreshing taste experience",
+          "ingredients": ["Pineapple", "Orange", "Mango", "Natural flavors"],
+          "sizes": ["250ml", "500ml", "1L"],
+          "benefits": ["Mixed fruit vitamins", "Antioxidants", "Natural energy"],
+          "image": "/products/Gallery26.jpg"
+        },
+        {
+          "id": "pine-ginger",
+          "name": "Unifresh Pine-Ginger",
+          "description": "Tropical pineapple enhanced with the warming spice of fresh ginger",
+          "ingredients": ["Fresh Pineapple", "Fresh Ginger"],
+          "sizes": ["250ml", "500ml"],
+          "benefits": ["Digestive support", "Anti-inflammatory", "Immune boost"],
+          "image": "/products/Gallery18.jpg"
+        },
+        {
+          "id": "prekese-ginger-pine",
+          "name": "Unifresh Prekese Ginger-Pine",
+          "description": "Traditional prekese combined with ginger and pineapple for a unique Ghanaian flavor",
+          "ingredients": ["Fresh Pineapple", "Fresh Ginger", "Prekese extract"],
+          "sizes": ["250ml", "500ml"],
+          "benefits": ["Traditional wellness", "Digestive health", "Unique flavor profile"],
+          "image": "/products/Gallery0.jpg"
+        }
+      ]
+    },
+    {
+      "id": "fresh-produce",
+      "name": "Fresh Produce",
+      "description": "Farm-fresh produce grown with sustainable practices",
+      "products": [
+        {
+          "id": "mushrooms",
+          "name": "Fresh Mushrooms",
+          "description": "Locally grown, farm-fresh mushrooms perfect for cooking",
+          "varieties": ["Oyster mushrooms", "Button mushrooms"],
+          "uses": ["Cooking", "Soups", "Stir-fries", "Salads"],
+          "benefits": ["High protein", "Low calories", "Rich in nutrients"],
+          "image": "/products/Gallery26.jpg"
+        }
+      ]
+    },
+    {
+      "id": "traditional",
+      "name": "Traditional Products",
+      "description": "Traditional Ghanaian ingredients processed for modern convenience",
+      "products": [
+        {
+          "id": "prekese-powder",
+          "name": "Prekese Powder",
+          "description": "Ground prekese (Tetrapleura tetraptera) for traditional cooking and wellness",
+          "uses": ["Traditional medicine", "Cooking spice", "Tea preparation"],
+          "benefits": ["Traditional wellness", "Aromatic spice", "Cultural heritage"],
+          "sizes": ["50g", "100g", "250g"],
+          "image": "/products/Gallery18.jpg"
+        }
+      ]
+    }
+  ]
+}
