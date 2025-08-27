@@ -28,11 +28,14 @@ export interface SiteConfig {
 }
 
 export interface TeamMember {
-  name: string
-  role: string
-  bio: string
-  image: string
+  name: string;
+  role: string;
+  bio: string;
+  image?: string;          // keep optional; we render a placeholder if missing
+  phone?: string | null;   // optional so JSON can omit, or use null
+  email?: string | null;   // optional so JSON can omit, or use null
 }
+
 
 export interface Product {
   id: string

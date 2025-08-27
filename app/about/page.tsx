@@ -12,7 +12,18 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Users, Leaf, Award, Heart, Target, Eye, Handshake } from "lucide-react";
+import {
+  Users,
+  Leaf,
+  Award,
+  Heart,
+  Target,
+  Eye,
+  Handshake,
+  Mail,
+  Phone,
+} from "lucide-react";
+import type { TeamMember } from "@/types/content";
 import {
   getSiteConfig,
   getTeamData,
@@ -135,7 +146,7 @@ export default async function AboutPage() {
             <div className="relative">
               <div className="aspect-[4/3] relative rounded-3xl overflow-hidden shadow-2xl">
                 <Image
-                  src="/farmers/Gallery31.jpg"
+                  src="/banners/Gallery31.jpg"
                   alt="Unique Solution Farms — farmers and natural products"
                   fill
                   className="object-cover"
@@ -161,7 +172,6 @@ export default async function AboutPage() {
           </div>
 
           <div className="grid md:grid-cols-3 gap-8">
-            {/* Mission */}
             <Card className="text-center border-0 shadow-lg">
               <CardHeader className="pb-4">
                 <div className="mx-auto w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mb-4">
@@ -178,7 +188,6 @@ export default async function AboutPage() {
               </CardContent>
             </Card>
 
-            {/* Vision */}
             <Card className="text-center border-0 shadow-lg">
               <CardHeader className="pb-4">
                 <div className="mx-auto w-16 h-16 bg-accent/10 rounded-2xl flex items-center justify-center mb-4">
@@ -195,7 +204,6 @@ export default async function AboutPage() {
               </CardContent>
             </Card>
 
-            {/* Values */}
             <Card className="text-center border-0 shadow-lg">
               <CardHeader className="pb-4">
                 <div className="mx-auto w-16 h-16 bg-primary/10 rounded-2xl flex items-center justify-center mb-4">
@@ -227,10 +235,10 @@ export default async function AboutPage() {
             </p>
           </div>
 
-          {/* Wider gaps; center cards; smaller image frames */}
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-12 justify-items-center">
-            {teamData.team.map(
-              (member: { name: string; role: string; bio: string; image?: string }) => (
+            {teamData.team.map((member: TeamMember) => {
+              const tel = member.phone?.replace(/\s+/g, "");
+              return (
                 <Card
                   key={member.name}
                   className="text-center border-0 shadow-lg overflow-visible group rounded-2xl"
@@ -258,13 +266,34 @@ export default async function AboutPage() {
                   </CardHeader>
 
                   <CardContent className="pb-8">
-                    <CardDescription className="text-base">
-                      {member.bio}
-                    </CardDescription>
+                    <CardDescription className="text-base">{member.bio}</CardDescription>
+
+                    {(member.phone || member.email) && (
+                      <div className="mt-4 flex flex-wrap items-center justify-center gap-3 text-sm">
+                        {member.phone && (
+                          <a
+                            href={`tel:${tel}`}
+                            className="inline-flex items-center gap-2 rounded-md border px-3 py-1.5 hover:bg-muted"
+                          >
+                            <Phone className="h-4 w-4" />
+                            {member.phone}
+                          </a>
+                        )}
+                        {member.email && (
+                          <a
+                            href={`mailto:${member.email}`}
+                            className="inline-flex items-center gap-2 rounded-md border px-3 py-1.5 hover:bg-muted"
+                          >
+                            <Mail className="h-4 w-4" />
+                            {member.email}
+                          </a>
+                        )}
+                      </div>
+                    )}
                   </CardContent>
                 </Card>
-              )
-            )}
+              );
+            })}
           </div>
         </div>
       </section>

@@ -66,9 +66,9 @@
       "name": "Videos",
       "description": "Short clips from farms, factory, and distribution.",
       "items": [
-        { "id": "crops-vid-1",      "type": "video", "src": "/video/loading.mp4",    "poster": "/video/loading.jpg",      "alt": "Crops overview video",               "tags": ["overview","farm"] },
-        { "id": "processing-vid-1", "type": "video", "src": "/video/packaging.mp4",  "poster": "/video/packaging.jpg",    "alt": "Processing line walkthrough",        "tags": ["factory","tour"] },
-        { "id": "community-vid-1",  "type": "video", "src": "/video/packaging1.mp4", "poster": "/video/packaging1.jpg",   "alt": "Community & distribution highlights","tags": ["community","distribution"] }
+        { "id": "crops-vid-1",      "type": "video", "src": "/video/loading.mp4",    "poster": "/video/loading.png",      "alt": "Crops overview video",               "tags": ["overview","farm"] },
+        { "id": "processing-vid-1", "type": "video", "src": "/video/packaging.mp4",  "poster": "/video/packaging.png",    "alt": "Processing line walkthrough",        "tags": ["factory","tour"] },
+        { "id": "community-vid-1",  "type": "video", "src": "/video/packaging1.mp4", "poster": "/video/packaging1.png",   "alt": "Community & distribution highlights","tags": ["community","distribution"] }
       ]
     }
   ]

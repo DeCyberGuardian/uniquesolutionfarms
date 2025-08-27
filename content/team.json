@@ -4,37 +4,49 @@
       "name": "Sanni Muhammad",
       "role": "Founder & CEO",
       "bio": "Visionary leader driving agricultural innovation across Ghana",
-      "image": "/team/prince-turkson.jpg"
+      "image": "/team/prince-turkson.jpg",
+      "phone": "xxx xxx xxxx",
+      "email": "saani@gmail.com"
     },
     {
       "name": "Awal Muhammad",
       "role": "Production Manager",
       "bio": "Ensuring quality and efficiency in our production processes",
-      "image": "/team/awal-muhammad.jpg"
+      "image": "/team/awal-muhammad.jpg",
+      "phone": "024 777 0202",
+      "email": "awalnuhu@gmail.com"
     },
     {
       "name": "Sahadatu Saana",
       "role": "Human Resources",
       "bio": "I believe in treating others with the same respect, kindness, and integrity I desire for myself.",
-      "image": "/team/sahadatu-saana.jpg"
+      "image": "/team/sahadatu-saana.jpg",
+      "phone": "055 287 4269",
+      "email": "saana@gmail.com"
     },
     {
       "name": "Prince Turkson",
       "role": "Quality Assurance",
       "bio": "Maintaining the highest standards for all our products",
-      "image": "/team/prince-turkson.jpg"
+      "image": "/team/prince-turkson.jpg",
+      "phone": "054 912 9490",
+      "email": "princekojoturk@gmail.com"
     },
     {
       "name": "Lydia Menko",
       "role": "Sales & Marketing",
       "bio": "Connecting our products with communities across Ghana",
-      "image": "/team/lydia-menko.jpg"
+      "image": "/team/lydia-menko.jpg",
+      "phone": "0554754045",
+      "email": "lyadia@gmail.com"
     },
     {
       "name": "Collins Tenkrong",
       "role": "Operations",
       "bio": "Streamlining operations for maximum efficiency",
-      "image": "/team/prince-turkson.jpg"
+      "image": "/team/prince-turkson.jpg",
+      "phone": "xxx xxx xxxx",
+      "email": "collins@gnmail.com"
     }
   ]
 }
